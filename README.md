@@ -17,3 +17,7 @@ This repository contains
 6. Charan
 7. Vivek
 8. Hemanth
+
+## Want to Try this online?
+
+The code is also available in a Google Colab file - [PSP-A2-Team7_Code](https://colab.research.google.com/drive/1AnvR7STns-xelKHZybSNL4Emi6ZsWHma?usp=sharing)
